@@ -1,0 +1,2 @@
+MongoDB shell version: 2.6.10
+Python version: 3.8.10
